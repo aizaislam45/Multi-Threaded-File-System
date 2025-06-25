@@ -32,7 +32,7 @@ g++ client.cpp -o client
 
 # Run the client in another terminal
 ./client
-
+```
 ##🧠 Why It’s Unique
 This project provides hands-on insight into:
 
