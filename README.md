@@ -33,7 +33,7 @@ g++ client.cpp -o client
 # Run the client in another terminal
 ./client
 ```
-##🧠 Why It’s Unique
+## 🧠 Why It’s Unique
 This project provides hands-on insight into:
 
 Operating systems principles like file systems, multithreading, and synchronization
